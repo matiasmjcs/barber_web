@@ -9,7 +9,7 @@ const state = ref(false)
     <button class="select" v-if="state == false" @click="state = false">Fade</button>
     <button v-if="state == true" @click="state = false">Fade</button>
     <button class="select" v-if="state == true" @click="state = true">Clasicos</button>
-    <button v-if="state == false"  @click="state = true">Cortes Clasicos</button>
+    <button v-if="state == false"  @click="state = true">Clasicos</button>
   </article>
     
     <article class="article-clasicos" v-if="state == true">

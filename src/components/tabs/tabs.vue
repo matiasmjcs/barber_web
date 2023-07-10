@@ -8,7 +8,7 @@ const state = ref(false)
   <article class="article-col">
     <button class="select" v-if="state == false" @click="state = false">Fade</button>
     <button v-if="state == true" @click="state = false">Fade</button>
-    <button class="select" v-if="state == true" @click="state = true">Cortes Clasicos</button>
+    <button class="select" v-if="state == true" @click="state = true">Clasicos</button>
     <button v-if="state == false"  @click="state = true">Cortes Clasicos</button>
   </article>
     

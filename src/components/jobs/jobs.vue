@@ -8,7 +8,7 @@
             <article>
                 <img src="../../assets/tijeras.png" alt="imagen de tijeras" />
             <h3>Corte de cabello</h3>
-            <p class="parrafo">Asesoría, corte y lavado de cabello. Incluye peinado con cera para peinar</p>
+            <p class="parrafo">Asesoría, corte de cabello. Incluye peinado con cera para peinar</p>
         </article>
 
         <article>

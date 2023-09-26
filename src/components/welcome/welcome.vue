@@ -32,7 +32,7 @@ article {
     width: 100%;
     height: 100%;
     min-height: 250px;
-    background-image: url('../../assets/perfil.jpg');
+    background-image: url('../../assets/perfil.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

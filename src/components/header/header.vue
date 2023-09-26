@@ -17,7 +17,7 @@
     overflow: hidden;
     display: grid;
     place-content: center;
-    background-image: url('../../assets/img-header.jpg');
+    background-image: url('../../assets/img-header.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
